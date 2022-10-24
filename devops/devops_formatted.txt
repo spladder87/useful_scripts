@@ -1,0 +1,114 @@
+1) Linux :
+
+Basic Linux commands are necessary before jumping into shell scripting.
+
+https://www.edx.org/course/introduction-to-linux
+https://www.youtube.com/watch?v=Wgi-OfbP2Gw
+https://www.youtube.com/watch?v=aaEoyVIowk8
+
+
+2. Shell Scripting:
+
+https://www.youtube.com/watch?v=GtovwKDemnI
+https://www.youtube.com/watch?v=BFMyUgF6I8Y
+
+
+3. Python: This will help you in automation
+
+
+
+https://www.youtube.com/watch?v=t8pPdKYpowI&feature=youtu.be
+https://www.youtube.com/watch?v=PXMJ6FS7llk
+https://www.youtube.com/watch?v=_uQrJ0TkZlc&feature=youtu.be
+
+
+4. Networking
+
+
+
+https://www.youtube.com/watch?t=798&v=BF9vXJ9sDAs&feature=youtu.be
+https://www.youtube.com/watch?v=IPvYjXCsTg8&feature=youtu.be
+
+
+5. Git & Github
+
+
+
+https://www.youtube.com/watch?v=apGV9Kg7ics&feature=youtu.be
+https://www.youtube.com/watch?v=8JJ101D3knE&feature=youtu.be
+
+
+6. YAML
+
+https://www.youtube.com/watch?v=IA90BTozdow&feature=youtu.be
+https://www.youtube.com/watch?v=GOk4IoYhM9U&feature=youtu.be
+
+
+7. Containers — Docker:
+
+
+
+https://www.youtube.com/watch?v=9zUHg7xjIqQ&feature=youtu.be
+https://www.youtube.com/watch?v=GwXLNAcHk-k&feature=youtu.be
+https://www.youtube.com/watch?v=pTFZFxd4hOI&feature=youtu.be
+
+
+8. Continuous Integration & Continuous Deployment (CI/CD):
+
+
+
+https://www.youtube.com/watch?v=3a8KsB5wJDE&feature=youtu.be
+
+
+9. Container Orchestration — Kubernetes:
+
+https://www.youtube.com/watch?v=X48VuDVv0do&feature=youtu.be
+
+
+10. Monitoring:
+
+https://www.youtube.com/watch?v=7gW5pSM6dlU&feature=youtu.be
+https://www.youtube.com/watch?v=cF2P9d7rBlg&feature=youtu.be
+https://www.youtube.com/watch?v=B5UY-qeW96I&feature=youtu.be
+https://www.youtube.com/watch?v=s9xCXZNVpac&feature=youtu.be
+
+
+11. Infrastructure Provisioning & Configuration Management (IaC): Terraform, Ansible, Pulumi
+
+https://www.youtube.com/watch?v=SLB_c_ayRMo&feature=youtu.be
+https://www.youtube.com/watch?v=9Ua2b06oAr4&feature=youtu.be
+https://www.youtube.com/watch?v=V4waklkBC38&feature=youtu.be
+https://www.youtube.com/watch?v=s4cXrNEDYiw&feature=youtu.be
+https://www.youtube.com/watch?v=vIjeiDcsR3Q&t=105s&ab_channel=TechWorldwithNana
+
+
+12. CI/CD Tools: Jenkins, GitHub Actions, GitLab CI, Travis CI, AWS CodePipeline + AWS CodeBuild, Azure DevOps, etc
+
+https://www.youtube.com/watch?v=wHtIWvb5nzo&list=PL7kXAf0BmEquRcpI2M2mSaqOD84w2XVhF&ab_channel=SandipDas
+https://www.youtube.com/watch?v=sdl0eovbmyE&feature=youtu.be
+https://www.youtube.com/watch?v=0649R_Fk9_E&list=PL7kXAf0BmEqura2P3brCGE4pIfeSh-kgw&ab_channel=SandipDas
+https://www.youtube.com/watch?v=HSV-Kky9N5E&ab_channel=edureka%21
+https://www.youtube.com/watch?v=BFpSD2eoXUk&ab_channel=codedamn
+https://www.youtube.com/watch?v=PGyhBwLyK2U&feature=youtu.be
+
+
+13. AWS:
+
+https://www.youtube.com/watch?v=k1RI5locZE4&feature=youtu.be
+https://www.youtube.com/watch?v=BRuvq59miIo&feature=youtu.be
+https://www.youtube.com/watch?v=cI16T7GOPwM&feature=youtu.be
+https://www.youtube.com/watch?v=ZB5ONbD_SMY&feature=youtu.be
+
+
+
+
+14. Learn how to SSH
+
+SSH using mobaxterm:
+
+https://www.youtube.com/watch?v=Diq9-b239vo&feature=youtu.be
+
+
+15. SSH using Putty :
+
+https://www.youtube.com/watch?v=umFEuHWJW3w&feature=youtu.be
